@@ -1,0 +1,365 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "地理教材",
+      "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/topic.png",
+      "toggleall": false,
+      "entries": [
+        {
+          "type": "LayerGroup",
+          "title": "自然地理",
+	      "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/chirikyouiku.png", 
+          "toggleall": false,
+          "html" : "<div class='layer_text'>地理教育に活用できる情報を閲覧できます。</div>",
+          "entries": [
+     {
+      "type": "LayerGroup",
+      "title": "ケッペンの気候区分",
+      "html":"<div class='layer_text'><p>教科横断的な視点で様々な分野と関わりのある地域の地形等を解説します。</p></div>",
+      "toggleall": true,
+      "entries": [
+            {
+              "type": "Layer",
+              "id": "koppen_Af",
+              "title": "Af",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Af.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Am",
+              "title": "Am",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Am.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Aw",
+              "title": "Aw",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Aw.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_BS",
+              "title": "BS",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_BS.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_BW",
+              "title": "BW",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_BW.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Cfa",
+              "title": "Cfa",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Cfa.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Cfb,Cfc",
+              "title": "Cfb,Cfc",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Cfb,Cfc.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Cs",
+              "title": "Cs",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Cs.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_Cw",
+              "title": "Cw",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_Cw.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_DF",
+              "title": "DF",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_DF.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_DW",
+              "title": "DW",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_DW.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_EF",
+              "title": "EF",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_EF.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              },{
+              "type": "Layer",
+              "id": "koppen_ET",
+              "title": "ET",
+              "iconUrl": "https://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/807.png",
+              "url": "./layers_txt/contents/Koppen/Koppen_ET.geojson",
+              "cocotile": true,
+              "subdmains":"",
+              "attribution":"",
+              "minZoom": 2,
+              "maxZoom": 15,
+              "maxNativeZoom": 2,
+              "legendUrl": "",
+              "html": "<div class=\"gsi_layerinfo_title\">ケッペンの気候区分</div>ケッペンに気候区分について。ケッペンに気候区分について。ケッペンに気候区分について。</div>"
+              }
+      ]
+     }
+          ]
+        },
+        {
+          "type": "LayerGroup",
+          "title": "ベクトルタイルpbf",
+	      "iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/vector.png",          
+          "toggleall": false,
+          "html" : "<div class='layer_text'>ベクトルという形式で提供実験している情報を閲覧できます。</div>",
+          "entries": [
+        {
+          "type": "Layer",
+          "id": "koppen_tile",
+          "title": "ケッペンベクトルタイル",
+          "url": "https://nbayashi.github.io/test_tile/koppen_geojson_3857/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 0,
+          "maxZoom": 7,
+          "maxNativeZoom": 7,
+          "html": "<div class='layer_text'><p>geojson tile3857。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_railcl",
+          "title": "地図情報（鉄道中心線）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_railcl/{z}/{x}/{y}.geojson",
+          "styleurl" : "https://maps.gsi.go.jp/xyz/experimental_railcl/style_canvas.js",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 16,
+          "html": "<div class='layer_text'><p>ベクトル形式の鉄道の中心線を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_rvrcl",
+          "title": "地図情報（河川中心線）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_rvrcl/{z}/{x}/{y}.geojson",
+          "styleurl" : "https://maps.gsi.go.jp/xyz/experimental_rvrcl/style_canvas.js",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 16,
+          "html": "<div class='layer_text'><p>ベクトル形式の河川の中心線を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_anno",
+          "title": "地図情報（注記）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_anno/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 15,
+          "html": "<div class='layer_text'><p>ベクトル形式の注記を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_anno/'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_nrpt",
+          "title": "地名情報（居住地名）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_nrpt/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 15,
+          "html": "<div class='layer_text'><p>ベクトル形式の居住地名を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_pni'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_nnfpt",
+          "title": "地名情報（自然地名）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_nnfpt/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 15,
+          "html": "<div class='layer_text'><p>ベクトル形式の自然地名を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_pni'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_pfpt",
+          "title": "地名情報（公共施設）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_pfpt/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 15,
+          "maxZoom": 18,
+          "maxNativeZoom": 15,
+          "html": "<div class='layer_text'><p>ベクトル形式の公共施設を表示します。</p></div>ズーム15～18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_pni'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_jhj",
+          "title": "地名情報（住居表示住所）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_jhj/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 18,
+          "maxZoom": 18,
+          "maxNativeZoom": 18,
+          "html": "<div class='layer_text'><p>ベクトル形式の住居表示住所を表示します。</p></div>ズーム18で表示します。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_pni'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_jhj_index",
+          "title": "┗住居表示住所の提供範囲",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_jhj_area/{z}/{x}/{y}.png",
+          "cocotile": true,
+          "minZoom": 5,
+          "html": "ズーム5～18で表示します。<br>ピンク色で塗りつぶされた部分以外には住居表示住所データはございません。<br>なお、この住居表示住所データの範囲は目安であり厳密なデータ範囲とは一致しませんのでご留意ください。"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_fgd",
+          "title": "基盤地図情報_基本項目",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_fgd/{z}/{x}/{y}.geojson",
+          "styleurl" : "https://maps.gsi.go.jp/xyz/experimental_fgd/style_canvas.js",
+          "cocotile": true,
+          "minZoom": 17,
+          "maxZoom": 18,
+          "maxNativeZoom": 18,
+          "html": "<div class='layer_text'><p>ベクトル形式の基準点や等高線等を表示します。</p></div>ズーム17～18で表示します。<a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_dem10b",
+          "title": "基盤地図情報_数値標高モデル(10m)",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_dem10b/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 18,
+          "maxZoom": 18,
+          "maxNativeZoom": 18,
+          "html": "<div class='layer_text'><p>ベクトル形式の標高データを表示します。</p></div>ズーム18で表示します。基盤地図情報数値標高モデル10mメッシュDEMです。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/vector-tile-experiment'>ベクトルタイル提供実験</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_landformclassification1",
+          "title": "地形分類（自然地形）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_landformclassification1/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 4,
+          "maxZoom": 16,
+          "maxNativeZoom": 16,
+          "html": "<div class='layer_text'><p>地図上をクリックすると「扇状地」「氾濫平野」といった地形分類と、その地形分類の成り立ち、災害リスクが分かります。</p></div>ズームレベル14～16で表示されます。なお、表示される内容は、調査時点のものであり、最新の状況と異なる場合があることをご了承ください。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_landformclassification'>ベクトルタイル提供実験</a><br><br><a target='_blank' href='http://www.gsi.go.jp/bousaichiri/lfc_index.html'>解説</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "experimental_landformclassification2",
+          "title": "地形分類（人工地形）",
+          "url": "https://maps.gsi.go.jp/xyz/experimental_landformclassification2/{z}/{x}/{y}.geojson",
+          "cocotile": true,
+          "minZoom": 4,
+          "maxZoom": 16,
+          "maxNativeZoom": 16,
+          "html": "<div class='layer_text'><p>地図上をクリックすると「切土地」「盛土地」などが分かります。</p></div>ズームレベル14～16で表示されます。なお、表示される内容は、調査時点のものであり、最新の状況と異なる場合があることをご了承ください。<br><a target='_blank' href='https://github.com/gsi-cyberjapan/experimental_landformclassification'>ベクトルタイル提供実験</a><br><br><a target='_blank' href='http://www.gsi.go.jp/bousaichiri/lfc_index.html'>解説</a>"
+        }
+          ]
+        }
+        ]
+    }
+  ]
+}
